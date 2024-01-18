@@ -20,5 +20,6 @@ pip install --upgrade pip
 conda install -c conda-forge gdal
 pip install rasterio opencv-python tqdm numpy scikit-learn wandb tmuxp tabulate pyright ruff-lsp
 pip install torch torchvision torchaudio
+pip install fire
 ```
 
